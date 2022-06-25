@@ -13,4 +13,4 @@
 
 1)[clock](https://github.com/RuslanBets/clock) - ![clock](https://github.com/RuslanBets/clock/raw/master/clock.png)
 2)[images](https://github.com/RuslanBets/image-gallary) - ![image](https://user-images.githubusercontent.com/86869767/173632669-8a2b8c4b-11f7-4dea-ad78-f07cf3eb1017.png)
-
+3)[mathReact](https://github.com/RuslanBets/math-app) - ![math](https://github.com/RuslanBets/math-app/blob/main/public/math.jpg)
